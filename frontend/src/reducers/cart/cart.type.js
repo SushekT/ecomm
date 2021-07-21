@@ -1,0 +1,10 @@
+const CartTypes = {
+    CARD_ADDITEM: 'CARD_ADDITEM',
+    CART_REMOVEITEM: 'CART_REMOVEITEM',
+
+    CART_SAVE_PAYMENT: 'CART_SAVE_PAYMENT',
+
+    CART_CLEAR_ITEM : 'CART_CLEAR_ITEM',
+}
+
+export default CartTypes;
